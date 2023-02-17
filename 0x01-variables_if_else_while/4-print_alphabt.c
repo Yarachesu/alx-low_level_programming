@@ -1,6 +1,7 @@
 #include<stdio.h>
 /**
- * main - the programm that print alphabet in lowercase followed by anew line exept q and e
+ * main - the programm that print alphabet
+ * in lowercase followed by anew line exept q and e
  * Return: 0
  */
 int main(void)
