@@ -2,6 +2,7 @@
 #include "main.h"
 /**
  * print_to_98 - print all member from input to 98
+ * @n: the starting number
  */
 void print_to_98(int n)
 {
